@@ -49,8 +49,8 @@ DIVISION_EQUIPMENT:0 "사단 장비"
 claims_on_us:0 "그들은 우리 영토의 소유권을 주장합니다"
 same_ruling_party:0 "기본"
 different_party_types:0 "기본"
-DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "Request control over a number of divisions from a puppet."
-DIPLOMACY_MILACC:0 "Military access"
+DIPLOMACY_REQUEST_EXP_FORCE_ACTION_DESC:0 "괴뢰국에게 여러 사단의 통제권을 요구합니다."
+DIPLOMACY_MILACC:0 "군사 "
 
 ### game_rules_l_english
 RULE_GROUP_GAMEPLAY:0 "게임 플레이"
